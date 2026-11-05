@@ -1,0 +1,4 @@
+project_id = "dwdiubwbjpyqvfvxdbat"
+
+[functions.notify-users]
+verify_jwt = true
